@@ -1,0 +1,13 @@
+node_modules
+
+coverage
+.coverage.json
+
+build
+!build/contracts/Heroes.json
+!build/contracts/Pets.json
+!build/contracts/CosBoostableLib.json
+
+# OpenZeppelin
+.openzeppelin/dev*.json
+.openzeppelin/.session
